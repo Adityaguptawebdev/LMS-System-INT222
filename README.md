@@ -18,7 +18,7 @@ Welcome to the Learning Management System (LMS) repository! This project provide
 1. **Clone the Repository:**
    - Clone this repository to your local machine using:
      ```shell
-     git clone https://github.com/your-username/your-repo.git
+     git clone https://github.com/Adityaguptawebdev/LMS-System-INT222.git
      ```
 2. **Install Dependencies:**
    - Navigate to the project directory and install the required packages:
