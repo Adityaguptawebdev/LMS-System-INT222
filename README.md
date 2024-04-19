@@ -4,9 +4,7 @@ Welcome to the Learning Management System (LMS) repository! This project provide
 
 ## Features
 - **User Management:** Register, log in, and manage user profiles.
-- **Course Management:** Create, edit, and manage courses and content.
-- **Learning Materials:** Upload and manage course documents and videos.
-- **Progress Tracking:** Monitor user progress and performance.
+
 
 ## Technologies
 - **Frontend:** HTML, CSS, JavaScript
